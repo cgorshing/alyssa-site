@@ -1,2 +1,4 @@
 name: Alyssa's Site
 description: Just another WordPress site
+
+permalink: /:year/:month/:day/:title
