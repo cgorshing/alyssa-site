@@ -2,7 +2,7 @@
 title: First Bad News
 author: cgorshing
 layout: post
-permalink: /index.php/2008/09/13/first-bad-news/
+permalink: /2008/09/13/first-bad-news/
 categories:
   - General
 ---

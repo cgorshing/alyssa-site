@@ -2,7 +2,7 @@
 title: Starting Point
 author: cgorshing
 layout: post
-permalink: /index.php/2007/08/26/starting-point/
+permalink: /2007/08/26/starting-point/
 categories:
   - General
 ---

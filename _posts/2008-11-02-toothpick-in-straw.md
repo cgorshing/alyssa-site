@@ -2,7 +2,7 @@
 title: Toothpick In Straw
 author: cgorshing
 layout: post
-permalink: /index.php/2008/11/02/toothpick-in-straw/
+permalink: /2008/11/02/toothpick-in-straw/
 categories:
   - General
 ---

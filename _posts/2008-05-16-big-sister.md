@@ -2,7 +2,7 @@
 title: Big Sister
 author: cgorshing
 layout: post
-permalink: /index.php/2008/05/16/big-sister/
+permalink: /2008/05/16/big-sister/
 categories:
   - General
 ---

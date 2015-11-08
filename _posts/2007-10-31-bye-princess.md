@@ -2,7 +2,7 @@
 title: Bye Princess
 author: cgorshing
 layout: post
-permalink: /index.php/2007/10/31/bye-princess/
+permalink: /2007/10/31/bye-princess/
 categories:
   - General
 ---

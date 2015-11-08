@@ -2,7 +2,7 @@
 title: A certain exercise is detrimental
 author: cgorshing
 layout: post
-permalink: /index.php/2007/09/09/a-certain-exercise-is-detrimental/
+permalink: /2007/09/09/a-certain-exercise-is-detrimental/
 categories:
   - General
 ---

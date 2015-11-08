@@ -2,7 +2,7 @@
 title: Catching Up
 author: cgorshing
 layout: post
-permalink: /index.php/2007/12/30/catching-up/
+permalink: /2007/12/30/catching-up/
 categories:
   - General
 ---

@@ -2,7 +2,7 @@
 title: No News is Good News
 author: cgorshing
 layout: post
-permalink: /index.php/2007/10/13/no-news-is-good-news/
+permalink: /2007/10/13/no-news-is-good-news/
 categories:
   - General
 ---

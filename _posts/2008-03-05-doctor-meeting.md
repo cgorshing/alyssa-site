@@ -2,7 +2,7 @@
 title: Doctor Meeting
 author: cgorshing
 layout: post
-permalink: /index.php/2008/03/05/doctor-meeting/
+permalink: /2008/03/05/doctor-meeting/
 categories:
   - General
 ---

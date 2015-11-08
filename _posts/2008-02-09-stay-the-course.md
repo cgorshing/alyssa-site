@@ -2,7 +2,7 @@
 title: Stay The Course
 author: cgorshing
 layout: post
-permalink: /index.php/2008/02/09/stay-the-course/
+permalink: /2008/02/09/stay-the-course/
 categories:
   - General
 ---

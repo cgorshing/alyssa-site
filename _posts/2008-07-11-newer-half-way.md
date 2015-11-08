@@ -2,7 +2,7 @@
 title: Newer Half Way
 author: cgorshing
 layout: post
-permalink: /index.php/2008/07/11/newer-half-way/
+permalink: /2008/07/11/newer-half-way/
 categories:
   - General
 ---

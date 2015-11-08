@@ -2,7 +2,7 @@
 title: Half Way Update
 author: cgorshing
 layout: post
-permalink: /index.php/2008/06/16/half-way-update/
+permalink: /2008/06/16/half-way-update/
 categories:
   - General
 ---

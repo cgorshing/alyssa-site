@@ -2,7 +2,7 @@
 title: Read the Instructions
 author: cgorshing
 layout: post
-permalink: /index.php/2008/07/25/read-the-directions/
+permalink: /2008/07/25/read-the-directions/
 categories:
   - General
 ---

@@ -2,7 +2,7 @@
 title: Numbers are Smaller
 author: cgorshing
 layout: post
-permalink: /index.php/2007/10/05/numbers-are-smaller/
+permalink: /2007/10/05/numbers-are-smaller/
 categories:
   - General
 ---

@@ -2,7 +2,7 @@
 title: Patch Pals Rocks!
 author: cgorshing
 layout: post
-permalink: /index.php/2007/08/30/patch-pals-rocks/
+permalink: /2007/08/30/patch-pals-rocks/
 categories:
   - General
 ---

@@ -2,7 +2,7 @@
 title: Good things can come from bad experiences
 author: cgorshing
 layout: post
-permalink: /index.php/2007/08/26/good-things-can-come-from-bad-experiences/
+permalink: /2007/08/26/good-things-can-come-from-bad-experiences/
 categories:
   - General
 ---

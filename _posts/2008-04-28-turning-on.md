@@ -2,7 +2,7 @@
 title: Turning On
 author: cgorshing
 layout: post
-permalink: /index.php/2008/04/28/turning-on/
+permalink: /2008/04/28/turning-on/
 categories:
   - General
 ---

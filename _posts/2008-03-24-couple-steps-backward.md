@@ -2,7 +2,7 @@
 title: Couple Steps Backward
 author: cgorshing
 layout: post
-permalink: /index.php/2008/03/24/couple-steps-backward/
+permalink: /2008/03/24/couple-steps-backward/
 categories:
   - General
 ---

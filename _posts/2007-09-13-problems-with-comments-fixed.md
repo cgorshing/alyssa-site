@@ -2,7 +2,7 @@
 title: 'Problems with Comments &#8211; Fixed'
 author: cgorshing
 layout: post
-permalink: /index.php/2007/09/13/problems-with-comments-fixed/
+permalink: /2007/09/13/problems-with-comments-fixed/
 categories:
   - General
 ---

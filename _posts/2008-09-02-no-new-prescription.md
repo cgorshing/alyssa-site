@@ -2,7 +2,7 @@
 title: No New Prescription
 author: cgorshing
 layout: post
-permalink: /index.php/2008/09/02/no-new-prescription/
+permalink: /2008/09/02/no-new-prescription/
 categories:
   - General
 ---

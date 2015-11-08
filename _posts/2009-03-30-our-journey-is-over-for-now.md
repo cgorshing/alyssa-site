@@ -2,7 +2,7 @@
 title: Our Journey Is Over.. For Now
 author: cgorshing
 layout: post
-permalink: /index.php/2009/03/30/our-journey-is-over-for-now/
+permalink: /2009/03/30/our-journey-is-over-for-now/
 categories:
   - General
 ---

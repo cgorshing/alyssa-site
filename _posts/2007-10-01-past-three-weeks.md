@@ -2,7 +2,7 @@
 title: Past Three Weeks
 author: cgorshing
 layout: post
-permalink: /index.php/2007/10/01/past-three-weeks/
+permalink: /2007/10/01/past-three-weeks/
 categories:
   - General
 ---

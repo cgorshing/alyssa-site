@@ -2,7 +2,7 @@
 title: Site Down Temporarily
 author: cgorshing
 layout: post
-permalink: /index.php/2008/05/12/site-down-temporarily/
+permalink: /2008/05/12/site-down-temporarily/
 categories:
   - General
 ---

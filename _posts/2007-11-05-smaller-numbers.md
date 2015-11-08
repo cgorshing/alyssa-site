@@ -2,7 +2,7 @@
 title: Smaller Numbers
 author: cgorshing
 layout: post
-permalink: /index.php/2007/11/05/smaller-numbers/
+permalink: /2007/11/05/smaller-numbers/
 categories:
   - General
 ---

@@ -2,7 +2,7 @@
 title: One Step Backward, Two Steps Forward?
 author: cgorshing
 layout: post
-permalink: /index.php/2007/11/18/one-step-backward-two-steps-forward/
+permalink: /2007/11/18/one-step-backward-two-steps-forward/
 categories:
   - General
 ---

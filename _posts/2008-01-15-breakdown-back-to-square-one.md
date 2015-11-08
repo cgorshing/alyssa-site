@@ -2,7 +2,7 @@
 title: 'Breakdown &#8211; Back To Square One'
 author: cgorshing
 layout: post
-permalink: /index.php/2008/01/15/breakdown-back-to-square-one/
+permalink: /2008/01/15/breakdown-back-to-square-one/
 categories:
   - General
 ---

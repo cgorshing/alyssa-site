@@ -2,7 +2,7 @@
 title: Numbers Game
 author: cgorshing
 layout: post
-permalink: /index.php/2007/09/13/numbers-game/
+permalink: /2007/09/13/numbers-game/
 categories:
   - General
 ---

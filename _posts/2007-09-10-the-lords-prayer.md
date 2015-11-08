@@ -2,7 +2,7 @@
 title: 'The Lord&#8217;s Prayer'
 author: cgorshing
 layout: post
-permalink: /index.php/2007/09/10/the-lords-prayer/
+permalink: /2007/09/10/the-lords-prayer/
 categories:
   - General
 ---

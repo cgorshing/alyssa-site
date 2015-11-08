@@ -2,7 +2,7 @@
 title: Visual Acuity
 author: cgorshing
 layout: post
-permalink: /index.php/2008/05/16/visual-acuity/
+permalink: /2008/05/16/visual-acuity/
 categories:
   - General
 ---

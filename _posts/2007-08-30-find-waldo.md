@@ -2,7 +2,7 @@
 title: Find Waldo
 author: cgorshing
 layout: post
-permalink: /index.php/2007/08/30/find-waldo/
+permalink: /2007/08/30/find-waldo/
 categories:
   - General
 ---

@@ -2,7 +2,7 @@
 title: Almost Over A Hump?
 author: cgorshing
 layout: post
-permalink: /index.php/2008/01/08/almost-over-a-hump/
+permalink: /2008/01/08/almost-over-a-hump/
 categories:
   - General
 ---

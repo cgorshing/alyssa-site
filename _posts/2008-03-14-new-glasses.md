@@ -2,7 +2,7 @@
 title: New Glasses
 author: cgorshing
 layout: post
-permalink: /index.php/2008/03/14/new-glasses/
+permalink: /2008/03/14/new-glasses/
 categories:
   - General
 ---
